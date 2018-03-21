@@ -9,8 +9,8 @@ What things you need to install the software and how to install them
 ```
 - Install CentOS or Others distro linux
 - Install php 5.6 | php 7 was not tested yet
-- Device [Modempool](https://www.google.co.id/search?q=modempool)
 ```
+- Device [Modempool](https://www.google.co.id/search?q=modempool)
 ### Running
 
 ```
